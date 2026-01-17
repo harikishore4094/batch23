@@ -1,0 +1,2 @@
+ name: install java package
+ host: local host 
